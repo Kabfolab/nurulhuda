@@ -8,7 +8,7 @@ export default function Dashboard(){
       <div className="max-w-3xl mx-auto">
         <div className="bg-[#5b21b6] rounded-[24px] p-6 text-white relative overflow-hidden">
           <div className="absolute right-0 top-0 w-64 h-64 bg-[#facc15]/20 rounded-full blur-[60px]"></div>
-          <h2 className="relative text-xl font-black">Dashboard</h2><p className="relative text-sm opacity-80 mt-1">Lean Deen and Dunya • Anywhere • Anytime</p>
+          <h2 className="relative text-xl font-black">Dashboard</h2><p className="relative text-sm opacity-80 mt-1">Learn Deen and Dunya • Anywhere • Anytime</p>
         </div>
         <div className="bg-white rounded-[20px] shadow p-6 mt-4">
           <label className="text-[13px] font-bold text-[#5b21b6]">Class Room Name</label>
